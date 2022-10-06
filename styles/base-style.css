@@ -29,6 +29,7 @@ html, body {
 .topnav a:hover {
   background-color: #777;
   color: black;
+  border: 3px black;
 }
 
 .topnav a.active {
