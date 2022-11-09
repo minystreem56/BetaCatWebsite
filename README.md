@@ -26,18 +26,12 @@ Together | The page for the Together game | [Stable](https://minystreem56.github
 
 ### Latest Update
 
-* Added a way to see which website you're viewing on the homepage switcher
-* Added **Previous Update** to `README.md`
+* Made a better `[ACTIVE]` element system on the homepage switcher
 
 ### Previous Update
 
-* Added things to `README.md` file
-
-  * Added **Pages List**
-  * Added **Latest Update**
-  * Added **Planned Updates**
-
-* Added switcher between stable and experimental pages on the homepage
+* Added a way to see which website you're viewing on the homepage switcher
+* Added **Previous Update** to `README.md`
 
 ### Planned Updates
 
