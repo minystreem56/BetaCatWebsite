@@ -30,13 +30,13 @@ Together | The page for the Together game | [Stable](https://minystreem56.github
 
 ### Latest Update
 
-* Removed the `.html` extension from the page's path
-* Moved the `css` and `js` folders for organization
-* Added **Notes** to the `README.md` file
+* Made a better switcher on the homepage
 
 ### Previous Update
 
-* Made a better `[ACTIVE]` element system on the homepage switcher
+* Removed the `.html` extension from the page's path
+* Moved the `css` and `js` folders for organization
+* Added **Notes** to the `README.md` file
 
 ### Planned Updates
 
