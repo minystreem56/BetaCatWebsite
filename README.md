@@ -25,18 +25,17 @@ Name | Description | Link
 Home | The homepage for the BetaCat website | [Stable](https://minystreem56.github.io/BetaCatWebsite/)<br>[Experimental](https://betacat.ian-codes.repl.co/)
 About | Members of BetaCat (not complete yet) | [Stable](https://minystreem56.github.io/BetaCatWebsite/about)<br>[Experimental](https://betacat.ian-codes.repl.co/about)
 Together | The page for the Together game | [Stable](https://minystreem56.github.io/BetaCatWebsite/together)<br>[Experimental](https://betacat.ian-codes.repl.co/together)
+Contact | Fill out a form to contact us | [Stable](https://minystreem56.github.io/BetaCatWebsite/contact)<br>[Experimental](https://betacat.ian-codes.repl.co/contact)
 
 ## Updates
 
 ### Latest Update
 
-* Made a better switcher on the homepage
+* Added a contact page with a form
 
 ### Previous Update
 
-* Removed the `.html` extension from the page's path
-* Moved the `css` and `js` folders for organization
-* Added **Notes** to the `README.md` file
+* Made a better switcher on the homepage
 
 ### Planned Updates
 
