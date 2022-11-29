@@ -31,11 +31,11 @@ Contact | Fill out a form to contact us | [Stable](https://minystreem56.github.i
 
 ### Latest Update
 
-* Added a contact page with a form
+* Removed `<` character from `together` page
 
 ### Previous Update
 
-* Made a better switcher on the homepage
+* Added a contact page with a form
 
 ### Planned Updates
 
